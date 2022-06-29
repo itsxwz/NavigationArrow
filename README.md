@@ -1,3 +1,5 @@
+![Alt](https://repobeats.axiom.co/api/embed/7d0dd5dd8855233d5637b80ebc1547929e9da7f6.svg "Repobeats analytics image")
+
 # NavigationArrow
 三维空间多点路径导航。
 
